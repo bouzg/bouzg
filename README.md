@@ -2,7 +2,7 @@
 
 #### Business Manager by day ☼ Applied Cybersecurity & Financial Intelligence by night ☾
 
-Business Manager at [WePwn](https://www.wepwn.ma);<br>
+Business Manager at [WePwn](https://www.wepwn.ma)<br>
 Exploring the intersection of finance, cybersecurity, and AI<br>
 
 - ⚙️ I use daily: `.py`, `.ipynb`, `.csv`, `.json`, `powerbi`, `notion`, `shodan`, `opencti`
